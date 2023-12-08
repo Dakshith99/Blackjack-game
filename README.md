@@ -1,5 +1,6 @@
 # Blackjack-game
 A simple game made using python and implementing random module
+
 ############### Our Blackjack House Rules #####################
 
 ## The deck is unlimited in size. 
